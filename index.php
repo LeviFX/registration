@@ -14,7 +14,7 @@
     <?php 
     if (isset($_SESSION['ID'])) {
      if ($_SESSION['Level'] == 1) {
-        // Hier komt het entor gesprek formulier te staan
+        // Hier komt het mentor gesprek formulier te staan
 
         echo "U bent ouder";
      } else {
